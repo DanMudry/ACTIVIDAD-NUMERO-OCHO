@@ -41,7 +41,7 @@ Authorization: API-KEY
 
 ###
 //TRAE LAS PUBLICACIONES X ID USUARIO
-GET {{HOST}}/api/publicaciones/3
+GET {{HOST}}/api/publicaciones/2
 Authorization: API-KEY
 
 ###
@@ -57,3 +57,4 @@ Content-Type: application/json
   "autores_idautores":2
 }
 
+///.REST TERMINADO
